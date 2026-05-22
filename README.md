@@ -1,8 +1,6 @@
 # Учёт мероприятий
 
-**Название папки:** `collab-python-tool`
-
-**Шаблон проекта:** `Учёт мероприятий`
+**Проект:** `Учёт мероприятий`
 
 **Ссылка на GitHub:** `https://github.com/pipelineOfProjects1t/collab-python-tool`
 
